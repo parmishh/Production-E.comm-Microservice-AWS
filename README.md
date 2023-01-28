@@ -1,6 +1,6 @@
 # Production-E.comm-Microservice_AWS-project
 Production level Microservice-Architecture E-Comm platform with AWS and CI/CD implementation
-![Screenshot_20230128-133919](https://user-images.githubusercontent.com/91942072/215257178-d2d37a79-9f26-439b-aa00-580f82a06d69.jpg)
+
 ![Screenshot_20230128-133936](https://user-images.githubusercontent.com/91942072/215257184-66420404-76e1-49ab-97a6-bfe0cfe59402.jpg)
 ![Screenshot_20230128-134536](https://user-images.githubusercontent.com/91942072/215257186-79df3954-c137-4b38-a10b-a337a44203a1.jpg)
 ![Screenshot_20230128-134603](https://user-images.githubusercontent.com/91942072/215257195-493f1922-7efe-4fa9-98c9-f5150b3630b9.jpg)
